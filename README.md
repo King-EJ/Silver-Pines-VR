@@ -27,8 +27,7 @@ WHAT IT DOES
 
 INSTALL
 -------
-1. BepInEx 6 (be.788) must already be in the game folder - you have it.
-2. Copy the BepInEx folder from this zip into the game folder (merge / overwrite).
+1. unzip into the game folder (merge / overwrite).
 3. Start SteamVR (or your OpenXR runtime) first, then the game.
 
 CONTROLS (gamepad buttons)
