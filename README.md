@@ -1,6 +1,7 @@
 # Silver-Pines-VR
 VR Mod for Silver Pines
 
+expect issues I played full game then made mod didnt play full game with VR mod
 
 SILVER PINES VR  -  VR mod for "Silver Pines" (for controller)
 ===========================================================================
